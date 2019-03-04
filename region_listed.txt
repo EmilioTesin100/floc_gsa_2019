@@ -1,5 +1,3 @@
-/home/jovyan/CamHD_motion_metadata/pycamhd-motion-metadata/examples/sample_region_files_process_config.json
-/home/jovyan/CamHD_motion_metadata/pycamhd-motion-metadata/pycamhd/region_analysis/scene_tag_classifiers_meta.json
 /home/jovyan/CamHD_motion_metadata/RS03ASHS/PN03B/06-CAMHDA301/2015/11/04/CAMHDA301-20151104T000020Z_optical_flow_regions.json
 /home/jovyan/CamHD_motion_metadata/RS03ASHS/PN03B/06-CAMHDA301/2015/11/04/CAMHDA301-20151104T060020Z_optical_flow_regions.json
 /home/jovyan/CamHD_motion_metadata/RS03ASHS/PN03B/06-CAMHDA301/2015/11/04/CAMHDA301-20151104T090020Z_optical_flow_regions.json
